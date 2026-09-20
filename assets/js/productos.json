@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1,
+    "nombre": "Far Cry 5",
+    "precio": 29990,
+    "categoria": "Accion",
+    "imagen": "assets/img/FarCry5.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Hollow Knight",
+    "precio": 9500,
+    "categoria": "Aventura",
+    "imagen": "assets/img/HollowKnight.png"
+  },
+  {
+    "id": 3,
+    "nombre": "MADiSON",
+    "precio": 19990,
+    "categoria": "Terror",
+    "imagen": "assets/img/Madison.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Stranded Deep",
+    "precio": 12500,
+    "categoria": "Supervivencia",
+    "imagen": "assets/img/StrandedDeep.png"
+  }
+]
