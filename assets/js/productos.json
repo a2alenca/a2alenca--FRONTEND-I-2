@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "nombre": "Far Cry 5",
+    "categoria": "Acción",
+    "precio": 29990,
+    "descripcion": "Bienvenido al condado de Hope, Montana, tierra de los libres y de los valientes.",
+    "imagen": "/assets/img/FarCry5.png"
+  },
+  {
+    "id": 2,
+    "nombre": "Hollow Knight",
+    "categoria": "Indie",
+    "precio": 12490,
+    "descripcion": "Forja tu propio camino en Hollow Knight! Una aventura épica en un vasto reino en ruinas.",
+    "imagen": "/assets/img/HollowKnight.png"
+  },
+  {
+    "id": 3,
+    "nombre": "Stranded Deep",
+    "categoria": "Supervivencia",
+    "precio": 15000,
+    "descripcion": "Sobrevive en el Océano Pacífico tras un accidente aéreo.",
+    "imagen": "/assets/img/StrandedDeep.png"
+  }
+]
