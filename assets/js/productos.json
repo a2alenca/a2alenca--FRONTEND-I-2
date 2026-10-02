@@ -2,14 +2,21 @@
   {
     "id": 1,
     "nombre": "Far Cry 5",
+<<<<<<< HEAD
     "categoria": "Acción",
     "precio": 29990,
     "descripcion": "Bienvenido al condado de Hope, Montana, tierra de los libres y de los valientes.",
     "imagen": "/assets/img/FarCry5.png"
+=======
+    "precio": 29990,
+    "categoria": "Accion",
+    "imagen": "assets/img/FarCry5.png"
+>>>>>>> 36642338cf31eebd2302b7b7b9e736f366084a90
   },
   {
     "id": 2,
     "nombre": "Hollow Knight",
+<<<<<<< HEAD
     "categoria": "Indie",
     "precio": 12490,
     "descripcion": "Forja tu propio camino en Hollow Knight! Una aventura épica en un vasto reino en ruinas.",
@@ -22,5 +29,24 @@
     "precio": 15000,
     "descripcion": "Sobrevive en el Océano Pacífico tras un accidente aéreo.",
     "imagen": "/assets/img/StrandedDeep.png"
+=======
+    "precio": 9500,
+    "categoria": "Aventura",
+    "imagen": "assets/img/HollowKnight.png"
+  },
+  {
+    "id": 3,
+    "nombre": "MADiSON",
+    "precio": 19990,
+    "categoria": "Terror",
+    "imagen": "assets/img/Madison.png"
+  },
+  {
+    "id": 4,
+    "nombre": "Stranded Deep",
+    "precio": 12500,
+    "categoria": "Supervivencia",
+    "imagen": "assets/img/StrandedDeep.png"
+>>>>>>> 36642338cf31eebd2302b7b7b9e736f366084a90
   }
 ]
